@@ -38,8 +38,8 @@ Navigate through the page to get to know me through my CV and find information a
 
 ## Demo
 
-![Desktop-hero-img](image.png)
-![Mobile-hero-img](image-1.png)
+![Desktop-hero-img](Images/image.png)
+![Mobile-hero-img](Images/image-1.png)
 
 ## Contribute
 
